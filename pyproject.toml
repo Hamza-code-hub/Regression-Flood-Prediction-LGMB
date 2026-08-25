@@ -1,0 +1,9 @@
+[project]
+name = "flood-prediction-lightgbm"
+version = "1.0.0"
+description = "LightGBM regression pipeline for flood prediction"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
