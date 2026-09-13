@@ -5,7 +5,6 @@
      width="100%"/>
 
 <br>
-
 # 🌊 Flood Prediction with LightGBM
 
 ## Regression, Feature Analysis & Explainable Machine Learning
